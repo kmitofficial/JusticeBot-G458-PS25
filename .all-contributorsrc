@@ -1,0 +1,15 @@
+{
+  "projectName": "JusticeBot-G458-PS25",
+  "projectOwner": "kmitofficial",
+  "repoType": "github",
+  "repoHost": "https://github.com/kmitofficial/JusticeBot-G458-PS25",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
